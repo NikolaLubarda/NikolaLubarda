@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning react.js
 
-- 📫 How to reach me e-mail: lubarda.nikola9@gmail.com 
+- 📫 lubarda.nikola9@gmail.com 
 
 
 <!---
