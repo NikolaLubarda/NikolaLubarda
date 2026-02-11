@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @NikolaLubarda
-- 👀 I’m interested in web develepment.
-- 🌱 I’m currently learning react.js(advanced), node.js(basics), express.js(basics)
-- On road to become full stack developer.
+## Nikola Lubarda 👋
 
-- 📫 lubarda.nikola9@gmail.com 
+Frontend developer in progress — I enjoy turning ideas into clean, usable interfaces.
 
+- ⚛️ React (advanced) • JavaScript
+- 🧠 Learning backend: Node.js + Express (basics)
+- 🚀 Building portfolio projects and improving UI/UX
 
-<!---
-NikolaLubarda/NikolaLubarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Email: lubarda.nikola9@gmail.com
